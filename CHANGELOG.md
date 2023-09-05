@@ -1,3 +1,10 @@
+## [1.4.5](https://github.com/d3p1/semantic-release-action/compare/1.4.4...1.4.5) (2023-09-05)
+
+
+### Bug Fixes
+
+* improve action name [[#1](https://github.com/d3p1/semantic-release-action/issues/1)] ([8d1fc4d](https://github.com/d3p1/semantic-release-action/commit/8d1fc4d224a9633778141bddb4961b252cfeda29))
+
 ## [1.4.4](https://github.com/d3p1/semantic-release-action/compare/1.4.3...1.4.4) (2023-09-05)
 
 
