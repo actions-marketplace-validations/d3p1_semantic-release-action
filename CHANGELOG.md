@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/d3p1/semantic-release-action/compare/1.4.1...1.4.2) (2023-09-05)
+
+
+### Bug Fixes
+
+* remove linter to avoid CI errors [[#3](https://github.com/d3p1/semantic-release-action/issues/3)] ([a7677bf](https://github.com/d3p1/semantic-release-action/commit/a7677bf9f2f2b6e8752d5f7a3f1fb8125e8e5cae))
+
 ## [1.4.1](https://github.com/d3p1/semantic-release-action/compare/1.4.0...1.4.1) (2023-09-05)
 
 
