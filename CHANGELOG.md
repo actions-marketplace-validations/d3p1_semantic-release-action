@@ -1,3 +1,18 @@
+# [1.2.0](https://github.com/d3p1/semantic-release-action/compare/1.1.0...1.2.0) (2023-09-05)
+
+
+### Bug Fixes
+
+* improve test action checkout step [[#1](https://github.com/d3p1/semantic-release-action/issues/1)] ([2c0d4f0](https://github.com/d3p1/semantic-release-action/commit/2c0d4f0ac6d30c455d19b697f061e2786aeb282c))
+* improve test action permissions [[#1](https://github.com/d3p1/semantic-release-action/issues/1)] ([ef91c6f](https://github.com/d3p1/semantic-release-action/commit/ef91c6f70eaf6ea89c2b8d3c0e028109b87f1229))
+* make inputs optional [[#1](https://github.com/d3p1/semantic-release-action/issues/1)] ([86116a9](https://github.com/d3p1/semantic-release-action/commit/86116a9a94848638ab6aeac058debb8b1b5ec3ff))
+
+
+### Features
+
+* add dependapot upgrade [[#1](https://github.com/d3p1/semantic-release-action/issues/1)] ([8e10df5](https://github.com/d3p1/semantic-release-action/commit/8e10df589db5a5fc3ce2ed82cda895236ab7a8d5))
+* update CI workflow to a more descriptive name [[#1](https://github.com/d3p1/semantic-release-action/issues/1)] ([5f3e66e](https://github.com/d3p1/semantic-release-action/commit/5f3e66e403eb584805f8563a8116efb3c4c7e2e0))
+
 # [1.1.0](https://github.com/d3p1/semantic-release-action/compare/1.0.0...1.1.0) (2023-09-04)
 
 
