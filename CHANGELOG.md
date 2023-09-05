@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/d3p1/semantic-release-action/compare/1.4.0...1.4.1) (2023-09-05)
+
+
+### Bug Fixes
+
+* add GitHub token environment variable to linter workflow [[#1](https://github.com/d3p1/semantic-release-action/issues/1)] ([1d552a2](https://github.com/d3p1/semantic-release-action/commit/1d552a2e7881440fbc30eada56e1f4023d873535))
+
 # [1.4.0](https://github.com/d3p1/semantic-release-action/compare/1.3.0...1.4.0) (2023-09-05)
 
 
