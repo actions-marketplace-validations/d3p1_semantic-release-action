@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/d3p1/semantic-release-action/compare/1.2.0...1.3.0) (2023-09-05)
+
+
+### Features
+
+* add dependapot upgrade [[#1](https://github.com/d3p1/semantic-release-action/issues/1)] ([243bbc1](https://github.com/d3p1/semantic-release-action/commit/243bbc166bb947a8f836ff8f1284257bae476710))
+
 # [1.2.0](https://github.com/d3p1/semantic-release-action/compare/1.1.0...1.2.0) (2023-09-05)
 
 
