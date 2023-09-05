@@ -1,3 +1,10 @@
+## [1.4.4](https://github.com/d3p1/semantic-release-action/compare/1.4.3...1.4.4) (2023-09-05)
+
+
+### Bug Fixes
+
+* restore tsconfig.json file needed for ESLint [[#3](https://github.com/d3p1/semantic-release-action/issues/3)] ([cc4f6bb](https://github.com/d3p1/semantic-release-action/commit/cc4f6bbd3481ad21eaa830fd7eefc90d50ae94fa))
+
 ## [1.4.3](https://github.com/d3p1/semantic-release-action/compare/1.4.2...1.4.3) (2023-09-05)
 
 
