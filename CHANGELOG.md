@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/d3p1/semantic-release-action/compare/1.3.0...1.4.0) (2023-09-05)
+
+
+### Features
+
+* improve linter workflow [[#1](https://github.com/d3p1/semantic-release-action/issues/1)] ([eb4804d](https://github.com/d3p1/semantic-release-action/commit/eb4804d3d50549a7d15a3ed647535517a437a16b))
+
 # [1.3.0](https://github.com/d3p1/semantic-release-action/compare/1.2.0...1.3.0) (2023-09-05)
 
 
