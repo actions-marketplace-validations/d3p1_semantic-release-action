@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/d3p1/semantic-release-action/compare/1.4.2...1.4.3) (2023-09-05)
+
+
+### Bug Fixes
+
+* restore ESLint configuration file [[#3](https://github.com/d3p1/semantic-release-action/issues/3)] ([f6ba1c4](https://github.com/d3p1/semantic-release-action/commit/f6ba1c446c930ed4469cabf77cf782c0cc46407d))
+
 ## [1.4.2](https://github.com/d3p1/semantic-release-action/compare/1.4.1...1.4.2) (2023-09-05)
 
 
